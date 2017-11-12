@@ -1,0 +1,4 @@
+AirBnB repositories:
+
+- Many variables called name, elem, value, data, type and similars that have no comments, therefore is hard to understand what is happening on the code. For example, on jquery.js file there is around 1000 "elem", meaning diferent things on each function
+- Functions being called inside variables assignment. It's confusing.

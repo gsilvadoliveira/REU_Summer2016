@@ -1,2 +1,3 @@
-# REU_Summer2016
-Research Project - Regular Expressions - NCSU REU - Summer 2016
+# REU Project, Summer 2016 - NC State
+
+All the files on this repository are being used for studies. None of them are being used with commercial purposes.
